@@ -1,0 +1,14 @@
+{
+  "string": [
+    { "name": "module_desc", "value": "Sun exposure risk sample" },
+    { "name": "EntryAbility_desc", "value": "Real-time sun exposure risk from light and temperature" },
+    { "name": "EntryAbility_label", "value": "SunGuard" },
+    { "name": "simulated_data", "value": "Simulated data" },
+    { "name": "sim_light", "value": "Light (lx)" },
+    { "name": "sim_temperature", "value": "Temperature (°C)" },
+    { "name": "sources", "value": "Sources" },
+    { "name": "partial_fusion", "value": "Partial fusion: one sensor has no data" },
+    { "name": "estimate_note", "value": "Estimate only. The watch has no UV sensor." },
+    { "name": "event_log", "value": "Event log" }
+  ]
+}
